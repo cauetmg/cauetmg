@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: cauetgomesg@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauet&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauetmg&show_icons=true&theme=merko)
