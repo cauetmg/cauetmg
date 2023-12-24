@@ -1,7 +1,7 @@
                                                               Hi there 🙋‍♂️
 
 - 🧑‍💻 Hoje estudo Full Stack
-- 👨‍🎓 Bacharelando em: Segurança da informação - Anhanguera
+- 👨‍🎓 Bacharelando em: Análise e desenvolvimentos de Sistemas - Estácio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauetmg&show_icons=true&theme=merko)
 
